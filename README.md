@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes **Fantasy Basketball League** performance using Python, leveraging **web scraping**, advanced data manipulation, and visualization techniques. The goal is to extract real-time fantasy basketball data, assess team and player performance, identify key trends, and provide actionable insights for fantasy basketball strategies.
 
+Note: download the code and replace the Oauth can get your own league's stats,
+
 ---
 
 ## Objectives
